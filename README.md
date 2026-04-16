@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Columbia_University_1754.svg" width="120" alt="Columbia University Logo">
-  
-  # ML for Slime! 🦠 <img src="" width="190" valign="middle"> 
+# ML for Slime! 🦠 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Columbia_University_1754.svg" width="400" valign="middle"> 
   **Predicting *Dictyostelium* Aggregation Centers using Deep Learning**
   
   *A project developed during my stay at **Columbia University***
